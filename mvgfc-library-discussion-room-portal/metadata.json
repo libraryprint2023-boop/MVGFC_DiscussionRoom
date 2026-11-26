@@ -1,0 +1,6 @@
+{
+  "name": "MVGFC Library Discussion Room Portal",
+  "description": "Discussion room reservation and administrator review portal for Manuel V. Gallego Foundation Colleges Library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
